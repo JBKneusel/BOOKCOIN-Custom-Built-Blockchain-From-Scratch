@@ -83,5 +83,5 @@ It includes block creation, transaction handling, wallet management, and a basic
 
 ### Clone the repo
 ```bash
-git clone 
+git clone https://github.com/JBKneusel/BOOKCOIN-Custom-Built-Blockchain-From-Scratch.git
 cd bookcoin
